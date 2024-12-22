@@ -2,7 +2,6 @@
 
 Welcome to **Sociopedia** — a vibrant social platform where users can 🌟 connect, 📝 share, and 🤝 engage in a dynamic, interactive environment! This full-stack web application is built using the **MERN stack** (MongoDB, Express.js, React, and Node.js) with ⚡ **Vite** for fast development.  
 
-> **📌 Note**: This project was developed as part of my journey to learn and enhance my skills in MERN stack development. Through this experience, I gained valuable hands-on practice with various technologies and tools, which I’ve detailed below.  
 
 ---
 
